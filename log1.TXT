@@ -1,0 +1,14 @@
+Message : listening in server
+Message : server is not closed
+Message :  zeky type 4
+Message : server is not closed
+Message :  zeky type 4
+Message : server is not closed
+Message : 4 0
+Message : value : 1 sent successfully
+Message : 4 2
+Message : value : 3 sent successfully
+Message : releasing handled
+Message :  zeky type 4
+Message : server is not closed
+Message : 3 2

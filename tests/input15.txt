@@ -1,0 +1,13 @@
+3
+F:\18jdk\bin\java.exe
+-classpath
+out/production/osHW@
+8000
+2
+SJF
+PREVENTION
+8001
+1 2 3 0
+2
+150 0 100 1 150 2
+0 1 300 2 200 0

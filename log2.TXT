@@ -1,0 +1,6 @@
+Message : &&&&&&&&&started the workerConnection in worker process
+Message : new task is requesting to be executed
+Message : next reading index is : 0
+Message : next reading index is : 2
+Message : new task is requesting to be executed
+Message : next reading index is : 2

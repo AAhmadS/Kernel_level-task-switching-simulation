@@ -1,0 +1,15 @@
+3
+F:\18jdk\bin\java.exe
+-classpath
+out/production/osHW@
+8000
+2
+RR
+150
+DETECT
+8001
+1 2 3 0
+3
+100 3
+100 1 100 0
+100 0 100 1
